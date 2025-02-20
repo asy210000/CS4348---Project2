@@ -1,6 +1,4 @@
 READ ME: CS-4348 Project 2 - Simple Hardware Simulator with Round Robin Scheduling
-Name: Austin Yatco
-NetID: 2021616010
 
 QUICK START:
 1. Adjust config settings in main.c as described in the CONFIG section.
